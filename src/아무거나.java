@@ -9,7 +9,7 @@ public class 아무거나 {
         int b = Integer.parseInt(str[1]);
         br.close();
 
-        System.out.println(a + "," + b);
+        //System.out.println(a + "," + b);
 
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         bw.append(a + "," + b);
