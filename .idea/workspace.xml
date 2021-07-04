@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d24aeb19-8a28-473d-a4e5-60cea2981726" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/B_1417.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
       <recent name="C:\Users\aleej\IdeaProjects\JAVA Self-Study\BAEKJOON" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.아무거나">
+  <component name="RunManager" selected="Application.B_1417">
     <configuration name="아무거나" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="아무거나" />
       <module name="JAVA Self-Study" />
@@ -93,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_1564" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BAEKJOON.B_1564" />
+    <configuration name="B_1417" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BAEKJOON.B_1417" />
       <module name="JAVA Self-Study" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B_1417" />
         <item itemvalue="Application.아무거나" />
         <item itemvalue="Application.B_1138" />
         <item itemvalue="Application.B_1388" />
         <item itemvalue="Application.B_1105" />
-        <item itemvalue="Application.B_1564" />
       </list>
     </recent_temporary>
   </component>
