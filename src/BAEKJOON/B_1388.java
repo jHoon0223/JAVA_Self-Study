@@ -33,7 +33,7 @@ public class B_1388 {
                 if (tile[j][i] == '|') {
                     cntV++;
                     while(true) {
-                        if (j < N && tile[j][i] == '|')
+                        if (j < M && tile[j][i] == '|')
                             j++;
                         else
                             break;
