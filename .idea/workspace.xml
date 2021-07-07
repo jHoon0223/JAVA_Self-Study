@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d24aeb19-8a28-473d-a4e5-60cea2981726" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/B_1704.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

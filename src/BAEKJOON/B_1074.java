@@ -3,7 +3,7 @@ package BAEKJOON;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class B_1704 {
+public class B_1074 {
     private static int cnt, N, r, c;
     private static int[] x = {0,0,1,1};
     private static int[] y = {0,1,0,1};
