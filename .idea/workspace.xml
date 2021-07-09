@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d24aeb19-8a28-473d-a4e5-60cea2981726" name="Default Changelist" comment="" />
+    <list default="true" id="d24aeb19-8a28-473d-a4e5-60cea2981726" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BAEKJOON/B_1357.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA Self-Study/아무거나.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA Self-Study/아무거나.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +48,7 @@
       <recent name="C:\Users\aleej\IdeaProjects\JAVA Self-Study\BAEKJOON" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B_1629">
+  <component name="RunManager" selected="Application.B_1357">
     <configuration name="아무거나" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="아무거나" />
       <module name="JAVA Self-Study" />
@@ -52,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B_1138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BAEKJOON.B_1138" />
+    <configuration name="B_1357" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BAEKJOON.B_1357" />
       <module name="JAVA Self-Study" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B_1357" />
         <item itemvalue="Application.B_1629" />
         <item itemvalue="Application.B_1704" />
         <item itemvalue="Application.B_1417" />
         <item itemvalue="Application.아무거나" />
-        <item itemvalue="Application.B_1138" />
       </list>
     </recent_temporary>
   </component>
