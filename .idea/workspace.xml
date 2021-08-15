@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d24aeb19-8a28-473d-a4e5-60cea2981726" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/sieveOfEratosthenes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       <recent name="C:\Users\aleej\IdeaProjects\JAVA Self-Study\BAEKJOON" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountingSort">
+  <component name="RunManager" selected="Application.sieveOfEratosthenes">
     <configuration name="B_10989" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BAEKJOON.B_10989" />
       <module name="JAVA Self-Study" />
@@ -63,19 +63,6 @@
     </configuration>
     <configuration name="B_1764" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BAEKJOON.B_1764" />
-      <module name="JAVA Self-Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BAEKJOON.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B_2750" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BAEKJOON.B_2750" />
       <module name="JAVA Self-Study" />
       <extension name="coverage">
         <pattern>
@@ -113,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sieveOfEratosthenes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.sieveOfEratosthenes" />
+      <module name="JAVA Self-Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sieveOfEratosthenes" />
         <item itemvalue="Application.CountingSort" />
         <item itemvalue="Application.B_10989" />
         <item itemvalue="Application.B_1764" />
         <item itemvalue="Application.B_2751" />
-        <item itemvalue="Application.B_2750" />
       </list>
     </recent_temporary>
   </component>
